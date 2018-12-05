@@ -1,0 +1,1 @@
+VALID_TAG = ["Noun"]

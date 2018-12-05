@@ -1,0 +1,10 @@
+## 확장자
+.idea
+
+## 폴더
+save/
+venv/
+Class/__pycache__/
+Variable/__pycache__/
+Function/__pycache__/
+Function/InnerFunction/__pycache__/

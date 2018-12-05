@@ -1,0 +1,1 @@
+CLASSIFIER_CATEGORY = "classifier"
